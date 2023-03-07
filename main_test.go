@@ -1,9 +1,14 @@
 package main
 
 import (
-    "testing"
+	"fmt"
+	"testing"
 )
 
 func TestABC(t *testing.T) {
-    return
+	return
+}
+
+func main() {
+	fmt.Printf("Main\n")
 }
